@@ -5,3 +5,5 @@ My first remote repository.
 
 New line from local Git repository.
 
+ERRROR
+
